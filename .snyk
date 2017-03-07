@@ -41,7 +41,7 @@ ignore:
     - gulp-swig > swig > uglify-js:
         reason: None given
         expires: '2017-04-04T14:11:59.328Z'
-  'npm:qs:20170213':
+  'npm:qs:20170213':111111
     - codecov.io > request > qs:
         reason: None given
         expires: '2017-04-04T14:11:59.328Z'
